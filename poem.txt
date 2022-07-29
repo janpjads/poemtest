@@ -8,3 +8,4 @@ Deze zin toegevoegd in de tweede test branch
 dit is een toevoeging in de branche ponies.
 deze zin is toegevoegd in de branche nieuwebranchetest
 Dit is toevoeging in VS code. Hopelijk werkt dit....
+in git
